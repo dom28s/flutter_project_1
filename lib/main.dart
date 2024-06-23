@@ -35,6 +35,7 @@ class MyApp extends StatelessWidget {
         '/buyPage': (context) => buyPage(),
         // '/gridVIewItem': (context) => gridViewItem(),
         // '/detailPage': (context) => detailPage(),
+        // test
       },
     );
   }
