@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869848267422",
+    "project_id": "moblie-d2391",
+    "storage_bucket": "moblie-d2391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869848267422:android:88d5511c57bf31af13998f",
+        "android_client_info": {
+          "package_name": "com.example.gen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbAWxgHuV0WBFzcNTmIAv1NYy_Pd0szZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869848267422:android:668e72ac99d26f2013998f",
+        "android_client_info": {
+          "package_name": "com.example.nike_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbAWxgHuV0WBFzcNTmIAv1NYy_Pd0szZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
